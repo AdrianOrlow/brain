@@ -1,0 +1,15 @@
+---
+description: Jak zacząłem?
+---
+
+# Początek
+
+Swoją przygodę z tą programowaniem rozpocząłem w wieku około 11 lat. Wtedy to, jako mały chłopiec mocno zainteresowany szeroko pojętą informatyką, zechciałem poznać działanie komputera “na niższym poziomie” i sam coś stworzyć. Trafiłem całkiem ciekawie, bo na kurs języka Assembly, a za cel postanowiłem sobie napisanie prostego “systemu operacyjnego” wyświetlającego tekst “Hello World”. Wiedziałem wtedy o istnieniu np. C czy Javy, ale prawdopodobnie uważałem ten projekt za znacznie bardziej ambitny. I choć trudziłem się z jego zrealizowaniem dość długo (nie pamiętam ile dokładnie), nie udało mi się tego systemu w działającej wersji stworzyć. Dało mi to jednak zrozumieć np. pojęcie kompilacji, funkcji czy rejestrów oraz doświadczenie korzystania z takich narzędzi jak terminal czy wirtualizator sprzętu.
+
+Niedługo później dowiedziałem się o silniku Unity. I tutaj po raz kolejny wymyśliłem projekt do zrealizowania, nie oglądałem kursów w seriach, a raczej pojedyncze odcinki odpowiadające na moje problemy. Dopowiem, że tę technikę stosuję do dzisiaj. Moim ówczesnym celem stało się napisanie gry symulującej życie, w której gracz mógłby wykonywać codzienne czynności, czyli chodzić do pracy, dekorować dom czy korzystać z komunikacji miejskiej. Niestety, dla 11-letniego mnie to również okazało się zbyt dużym wyzwaniem. “Walki” z C# i JS (wtedy jeszcze można było z niego korzystać w Unity) skończyły się moją przegraną. Niemniej, zaprojektowałem dla gry mapę oraz proste obiekty i skrypty, uważam każde takie doświadczenie za wartościowe.
+
+Późniejsze skończenie z Unity nie oznaczało jednak całkowitego porzucenia przeze mnie tworzenia gier. Mając 12 lat zabrałem się za MTA, czyli GTA: San Andreas w wersji multiplayer. Tutaj już widać było coraz większy rozwój. Pomimo, że jakość mojego kodu w języku Lua (takowy wykorzystują serwery MTA) pozostawiała wiele do życzenia, umiałem już go czytać. W dużej części rozumiałem skrypty napisane przez innych i oczywiście przez siebie. Małe doświadczenie i niski rozwój umysłowy wynikający z młodego wieku nie pozwoliły jednak na stworzenie czegokolwiek używalnego.
+
+Od 2015 roku bardzo dużo korzystałem z Facebooka i mogłoby się wydawać, paradoksalnie, przyniosło to ogromną ilość pozytywnych efektów. W kwietniu tamtego roku dołączyłem do facebookowej grupy Nastoletni Programiści mającej ówcześnie dopiero koło 50 członków. Uzestnictwo w niej pobudzało mnie (i zapewne innych też) do działania, a także przyniosło wiele ciekawych znajomości, które utrzymuję aż do dzisiaj. Tak właściwie nie wiem gdzie byłbym teraz gdyby ta grupa nie pojawiła mi się w “proponowanych”. 2015 był dla mnie szczególnie ważny również dlatego, że wtedy wreszcie stworzyłem coś działającego i używalnego. Zaprojektowałem m.in. kilka stron internetowych z pomocą języków webowych i przeglądarkę w VB.NET. Prowadziłem także kanał na YouTube skupiający się na poradnikach komputerowych.
+
+Ta historia kończy się w 2015 - kiedy miałem 13 lat. To wtedy bardziej poważnie wziąłem się za programowanie.
