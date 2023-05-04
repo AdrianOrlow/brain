@@ -1,4 +1,6 @@
-![[Pasted image 20230504225905.png]]
+# Używanie umysłu jak szafki z szufladkami informacji to marnowanie jego potencjału.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Dzisiaj matura - niezależnie czy stara czy nowa - niestety nadal tak samo średniowieczna w wielu elementach. Matura z każdą reformą idzie w lepszą stronę, ale nadal toczy ją choroba pamięciówek i potrzeby wkuwania.
 
