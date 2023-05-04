@@ -1,20 +1,8 @@
 # Table of contents
 
-* [Projekty](README.md)
-  * [myPolitics](Projekty/Działaj.org.md)
-  * [myPolitics](projekty/mypolitics.md)
-* [Start](start/README.md)
-  * [Kim jest Adrian?](<Start/Kim jest Adrian.md>)
-* [Myśli](mysli/README.md)
-  * [Polityka](Myśli/Polityka/README.md)
-  * [Biznes](Myśli/Wszelakie/README.md)
-  * [Wszelakie](Myśli/Wszelakie/README.md)
-  * [Edukacja](Myśli/Edukacja/README.md)
-    * [Używanie umysłu jak szafki z szufladkami informacji to marnowanie jego potencjału.](<Myśli/Edukacja/Używanie umysłu jak szafki z szufladkami informacji to marnowanie jego potencjału..md>)
-
 ## Start
 
-* [Kim jest Adrian?](start-1/kim-jest-adrian.md)
+* [Kim jest Adrian?](README.md)
 
 ## Fundamenty
 
@@ -26,10 +14,15 @@
 
 ## Projekty
 
-* [myPolitics](projekty-1/mypolitics.md)
-* [Nibby](projekty-1/nibby.md)
-* [Działaj.org](projekty-1/dzialaj.org.md)
+* [myPolitics](projekty/mypolitics.md)
+* [Nibby](projekty/nibby.md)
+* [Działaj.org](projekty/dzialaj.org.md)
 
-## IT
+## myśli
 
-* [Początek](it/poczatek.md)
+* [IT](mysli/it/README.md)
+  * [Początek](mysli/it/poczatek.md)
+* [Biznes](mysli/biznes.md)
+* [Edukacja](mysli/edukacja.md)
+* [Polityka](mysli/polityka.md)
+* [Książki](mysli/ksiazki.md)
