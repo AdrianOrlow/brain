@@ -4,7 +4,7 @@ description: Co to za gość?
 
 # Kim jest Adrian?
 
-![](<.gitbook/assets/image (1).png>)
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>(ten gość na zdjęciu to ja)</p></figcaption></figure>
 
 ### **Jestem Adrian, miło Cię poznać!**
 
