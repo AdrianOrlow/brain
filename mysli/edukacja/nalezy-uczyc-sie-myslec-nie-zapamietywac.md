@@ -6,7 +6,7 @@ description: >-
 
 # Należy uczyć się myśleć, nie zapamiętywać
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dzisiaj matura - niezależnie czy stara czy nowa - niestety nadal tak samo średniowieczna w wielu elementach. Matura z każdą reformą idzie w lepszą stronę, ale nadal toczy ją choroba pamięciówek i potrzeby wkuwania.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Do starego dziada co mnie ujada
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drodzy przedstawiciele pokolenia X, a szczególnie Ty, stary dziadzie. Otóż w równie paternalistycznym tonie wytłumaczę ci różnicę ograniczonego myślenia twojego, zabetonowego pokolenia względem mojego, którego tak chętnie próbujesz przedstawić w złym świetle.\
 \
