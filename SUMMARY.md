@@ -42,6 +42,7 @@
   * [Jak zarządzać Pokoleniem Z? Dać działać.](mysli/biznes/jak-zarzadzac-pokoleniem-z-dac-dzialac..md)
   * [Być jak snajper](mysli/biznes/byc-jak-snajper.md)
   * [Wszechobecność wciskania kitu](mysli/biznes/wszechobecnosc-wciskania-kitu.md)
+  * [Etyka biznesu](mysli/biznes/etyka-biznesu.md)
 * [Edukacja](mysli/edukacja/README.md)
   * [Należy uczyć się myśleć, nie zapamiętywać](mysli/edukacja/nalezy-uczyc-sie-myslec-nie-zapamietywac.md)
   * [Matura, peak indoktrynacji](mysli/edukacja/matura-peak-indoktrynacji.md)

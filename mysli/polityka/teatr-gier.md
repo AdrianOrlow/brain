@@ -4,7 +4,7 @@ description: O postrzeganiu polityki.
 
 # Teatr gier
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Zawsze w kontekście obiektywnej oceny politycznej działań należy wyzbyć się emocji i postrzegać te procesy jako formę teatru, w którym aktorzy-politycy konkurują między sobą dla celów własnych i zabawiania publiczności. Scena nie jest rzeczywistością, choć na niej się opiera
 
