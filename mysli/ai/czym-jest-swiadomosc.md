@@ -1,6 +1,6 @@
 # Czym jest świadomość?
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Czym jest świadomość? Przez to pytanie, które pojawiło się w głowie o 2 w nocy, ponownie zarwałem nockę\
 \

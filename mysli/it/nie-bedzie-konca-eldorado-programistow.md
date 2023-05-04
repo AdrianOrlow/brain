@@ -7,7 +7,7 @@ description: >-
 
 # Nie będzie końca "eldorado programistów"
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Edsger W. Dijkstra, holenderski naukowiec i pioner informatyki, w swoim tekście opublikowanym w 1972 roku pt. “The Humble Programmer”, wspomina o tym, że w latach 60’ ubiegłego wieku uważano programistów za ludzi, którym płaci się za dużo. Co więcej, już wtedy prognozowano spadek płac osób pracujących w tym zawodzie. Od tamtego momentu minęło ponad 60 lat, a programowanie nadal jest bardzo dobrze opłacane i branża z każdym rokiem się powiększa o kolejne setki tysięcy nowych programistów.
 

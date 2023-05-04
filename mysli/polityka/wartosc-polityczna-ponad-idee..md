@@ -4,7 +4,7 @@ description: To nowe zasady gry, a kto je odrzuci – przegra.
 
 # Wartość polityczna ponad idee.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Dawno nie pisałem o polityce, ale czas kampanii to dobry moment by do tego wrócić. Na pewno wiele z czytających ten wpis to zwolennicy opozycji, często twierdzący, że to niemożliwe by rząd mający tak wiele potknięć, afer i wewnętrznych podziałów mógł wygrać.
 

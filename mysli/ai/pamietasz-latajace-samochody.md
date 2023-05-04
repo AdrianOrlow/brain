@@ -4,7 +4,7 @@ description: Kochamy wyobrażenia, szczególnie takie o niesamowitej przyszłoś
 
 # Pamiętasz latające samochody?
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Przyszłość w wyobrażeniach artystów z lat 60' XX w.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Przyszłość w wyobrażeniach artystów z lat 60' XX w.</p></figcaption></figure>
 
 Kiedy w latach 60' ub. w. rozpoczął się ogromny rozwój technologii użytkowych, równocześnie zaczęły pojawiać się pytania, które słyszymy też dzisiaj - skoro teraz rozwijamy się tak szybko, to pomyślmy co będzie za 10, 20, 50 lat!
 

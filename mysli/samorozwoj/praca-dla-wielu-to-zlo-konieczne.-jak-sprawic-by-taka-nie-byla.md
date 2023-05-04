@@ -4,7 +4,7 @@ description: Jak pracować i się cieszyć?
 
 # ‎Praca dla wielu to zło konieczne. Jak sprawić by taką nie była?
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Mówiąc innym, że pracuję po 21 (mając na myśli rozwój hobbystycznego projektu czy freelancing) spotykałem się z negatywnymi reakcjami, współczuciem czy brakiem zrozumienia.
 

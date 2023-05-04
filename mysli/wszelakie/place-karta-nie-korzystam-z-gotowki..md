@@ -1,6 +1,6 @@
 # Płacę kartą, nie korzystam z gotówki.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Jako konsument kieruję się własną wygodą i łatwością zarządzania finansami. Płacę w parę sekund, łatwo mogę też doliczyć napiwek po prostu klikając na terminalu. Nie muszę nosić ze sobą drobnych ani chodzić do bankomatu.
 

@@ -1,6 +1,6 @@
 # Hurra! Mój projekt się nie udał?
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Mając 16 lat stworzyłem swój pierwszy (nieudany) duży projekt. Co mi to dało i dlaczego uważam tę pozorną porażkę za sukces?
 

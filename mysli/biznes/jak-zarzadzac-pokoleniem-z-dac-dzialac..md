@@ -1,6 +1,6 @@
 # Jak zarządzać Pokoleniem Z? Dać działać.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 "Roszczeniowe dzieci dobrobytu" - tak wielu starszych dorosłych widzi wchodzące na rynek pracy Pokolenie Z. Jest to jednak typowy brak zrozumienia dla specyfiki ludzi urodzonych w nowych czasach.
 

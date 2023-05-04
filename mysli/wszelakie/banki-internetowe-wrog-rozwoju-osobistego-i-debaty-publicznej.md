@@ -4,7 +4,7 @@ description: Czym są bańki i dlaczego szkodzą?
 
 # Bańki internetowe - wróg rozwoju osobistego i debaty publicznej
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Nigdy wcześniej w historii ludzkości nie mogliśmy komunikować się tak szybko i z tak wieloma ludźmi jednocześnie. To jednak powoduje powstanie nowego problemu - baniek internetowych.
 

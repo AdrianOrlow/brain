@@ -4,7 +4,7 @@ description: Ale też nie do końca...
 
 # Czy porównywanie się do innych jest dobre? TAK!
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Niezależnie czy myślimy o profesjonalnym środowisku, życiu codziennym czy mediach społecznościowych, w każdym z tych miejsc spotykamy się z innymi ludźmi.\
 &#x20;\

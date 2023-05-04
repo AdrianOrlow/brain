@@ -4,7 +4,7 @@ description: Nie bójmy się braku powtarzalności.
 
 # Czy automatyzacja nas zastąpi? Oby tak!
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Sprzeciw wobec likwidowania zbędnych zawodów (zwany też luddyzmem) jest obecny w społeczeństwach od kiedy pojawiły się pierwsze techniki automatyzacyjne.
 

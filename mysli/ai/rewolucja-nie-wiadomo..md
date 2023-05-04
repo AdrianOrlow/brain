@@ -4,7 +4,7 @@ description: Hype potrafi przysłonić racjonalne myśli.
 
 # Rewolucja? Nie wiadomo.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 🅰️: Nadchodzi rewolucja AI! Komu bezrobocie, komu brak środków na życie? Każdemu powszechna władza superkomputerów korporacji, kasjerzy i programiści na bruk!
 

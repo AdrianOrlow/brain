@@ -1,6 +1,6 @@
 # Być jak snajper
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 W tworzeniu produktu trzeba być jak snajper na froncie - szanować naboje, wiedzieć gdzie wycelować i mieć określony, konkretny efekt jaki strzał ma osiągnąć.
 

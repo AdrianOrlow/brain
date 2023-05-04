@@ -6,7 +6,7 @@ description: >-
 
 # Wszechobecność wciskania kitu
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Powszechność wiary w plastikowych, wykreowanych ludzi, fikcyjnych nagród i osiągnięć, za którymi stoi tzw. “ciężka praca”, to codzienność w dzisiejszym Internecie. Ci sami ludzie jednocześnie utwierdzają społeczeństwo nie tylko w wiarygodności ich samych, ale z ogromną chęcią promują sposoby myślenia, które do nikąd nie prowadzą.
 

@@ -1,6 +1,6 @@
 # Boisz się dilera, a powinieneś sklepu monopolowego
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Wczoraj policja złapała kolejnego groźnego przestępcę, rapera z niewielką ilością marihuany. To wielki sukces naukowej ignorancji i nieracjonalnego reakcjonizmu społeczeństwa.
 

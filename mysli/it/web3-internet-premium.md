@@ -1,6 +1,6 @@
 # web3 = internet premium
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Niemal wszystkie implementacje web3 dotyczą zarobku i maksymalizacji zysku, bez wnoszenia nowych rozwiązań na rynek. Nadchodzi era drogiego Internetu, który zmniejszy jego dostępność dla biedniejszych. Internetu, na którym zyskają korporacje i straci większość ludzi.
 
