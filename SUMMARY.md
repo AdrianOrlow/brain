@@ -3,13 +3,10 @@
 * [Fundamenty](README.md)
   * [Relacje](Fundamenty/Autorytet.md)
   * [Impakt](fundamenty/cel.md)
-* [Fundamenty](fundamenty-1.md)
-* [Fundamenty](fundamenty-2/README.md)
-  * [Działaj.org](Fundamenty/Impakt.md)
-* [Fundamenty](fundamenty-3/README.md)
-  * [Nibby](Fundamenty/Pragmatyzm.md)
+  * [[Cel]]
 * [Projekty](projekty/README.md)
   * [myPolitics](Projekty/Działaj.org.md)
+  * [[Działaj.org]]
 * [Projekty](projekty-1/README.md)
   * [Pragmatyzm](Projekty/Nibby.md)
 * [Projekty](projekty-2/README.md)
@@ -20,5 +17,5 @@
   * [Edukacja](mysli/edukacja/README.md)
     * [Używanie umysłu jak szafki z szufladkami informacji to marnowanie jego potencjału.](<Myśli/Edukacja/Używanie umysłu jak szafki z szufladkami informacji to marnowanie jego potencjału..md>)
 * [Myśli](mysli-1/README.md)
-  * [IT](mysli-1/it/README.md)
+  * [IT](mysli/it/README.md)
     * [Początek](Myśli/IT/Początek.md)
