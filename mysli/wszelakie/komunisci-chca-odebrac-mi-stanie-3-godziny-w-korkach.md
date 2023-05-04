@@ -4,7 +4,7 @@ description: Czyli jak pranie mózgów doprowadza do braku logiki.
 
 # Komuniści chcą odebrać mi stanie 3 godziny w korkach!
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Rano wstajesz i w swoim wolnościowym samochodzie po wolnościowej drodze jedziesz 2h do miejsca pracy. 7 rano to trudna godzina do jazdy, korki i wkurzenie wzrasta jeszcze przed wejściem do biura.
 

@@ -4,7 +4,7 @@ description: Po prostu - Elon Musk.
 
 # Bogaty, więc geniusz?
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Zbudował tak wielkie imperium biznesowe, jest świetnym, pożądanym specjalistą albo wielkim influencerem z ogromnymi zasięgami. Zatem z pewnością wie co robi w każdej kolejnej sytuacji i jest największym autorytetem! Czy bogaty znaczy geniusz? Nie do końca.
 
